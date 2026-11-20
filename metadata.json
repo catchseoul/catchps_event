@@ -1,0 +1,6 @@
+{
+  "name": "캐치성형외과 이벤트 페이지",
+  "description": "캐치성형외과 첫코성형, 코재수술, 내시경이마거상 공식 이벤트 랜딩페이지 및 상담 예약 신청",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
